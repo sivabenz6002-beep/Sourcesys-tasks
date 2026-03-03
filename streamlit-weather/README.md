@@ -109,7 +109,7 @@ https://openweathermap.org/api
 
 ---
 
-## 🌟 Resume Description
+## 🌟Description
 
 Developed and deployed an advanced Streamlit-based Weather Dashboard that fetches real-time weather data using OpenWeatherMap API, integrates animated UI design, location detection, 5-day forecast visualization, and temperature trend analytics.
 
